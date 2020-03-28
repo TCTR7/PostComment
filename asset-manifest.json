@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PostComment.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/PostComment.github.io/static/js/main.03a9a84d.chunk.js",
-    "main.js.map": "/PostComment.github.io/static/js/main.03a9a84d.chunk.js.map",
-    "runtime-main.js": "/PostComment.github.io/static/js/runtime-main.125ec391.js",
-    "runtime-main.js.map": "/PostComment.github.io/static/js/runtime-main.125ec391.js.map",
-    "static/js/2.8bb2c2ec.chunk.js": "/PostComment.github.io/static/js/2.8bb2c2ec.chunk.js",
-    "static/js/2.8bb2c2ec.chunk.js.map": "/PostComment.github.io/static/js/2.8bb2c2ec.chunk.js.map",
-    "index.html": "/PostComment.github.io/index.html",
-    "precache-manifest.c41b65b86c360c0c06a73eb42fc655c5.js": "/PostComment.github.io/precache-manifest.c41b65b86c360c0c06a73eb42fc655c5.js",
-    "service-worker.js": "/PostComment.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/PostComment.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8bb2c2ec.chunk.js.LICENSE.txt": "/PostComment.github.io/static/js/2.8bb2c2ec.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/PostComment.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/PostComment/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PostComment/static/js/main.d3177304.chunk.js",
+    "main.js.map": "/PostComment/static/js/main.d3177304.chunk.js.map",
+    "runtime-main.js": "/PostComment/static/js/runtime-main.19eac62f.js",
+    "runtime-main.js.map": "/PostComment/static/js/runtime-main.19eac62f.js.map",
+    "static/js/2.8bb2c2ec.chunk.js": "/PostComment/static/js/2.8bb2c2ec.chunk.js",
+    "static/js/2.8bb2c2ec.chunk.js.map": "/PostComment/static/js/2.8bb2c2ec.chunk.js.map",
+    "index.html": "/PostComment/index.html",
+    "precache-manifest.b20944f46d773664503f3084b9e01097.js": "/PostComment/precache-manifest.b20944f46d773664503f3084b9e01097.js",
+    "service-worker.js": "/PostComment/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PostComment/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8bb2c2ec.chunk.js.LICENSE.txt": "/PostComment/static/js/2.8bb2c2ec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PostComment/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.125ec391.js",
+    "static/js/runtime-main.19eac62f.js",
     "static/js/2.8bb2c2ec.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.03a9a84d.chunk.js"
+    "static/js/main.d3177304.chunk.js"
   ]
 }
