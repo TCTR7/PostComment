@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/post-comment-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/post-comment-app/static/js/main.9ca1037d.chunk.js",
+    "main.js.map": "/post-comment-app/static/js/main.9ca1037d.chunk.js.map",
+    "runtime-main.js": "/post-comment-app/static/js/runtime-main.fe59534c.js",
+    "runtime-main.js.map": "/post-comment-app/static/js/runtime-main.fe59534c.js.map",
+    "static/js/2.8bb2c2ec.chunk.js": "/post-comment-app/static/js/2.8bb2c2ec.chunk.js",
+    "static/js/2.8bb2c2ec.chunk.js.map": "/post-comment-app/static/js/2.8bb2c2ec.chunk.js.map",
+    "index.html": "/post-comment-app/index.html",
+    "precache-manifest.b946d1c9f8ce6bd101963e4927d7b2d9.js": "/post-comment-app/precache-manifest.b946d1c9f8ce6bd101963e4927d7b2d9.js",
+    "service-worker.js": "/post-comment-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/post-comment-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8bb2c2ec.chunk.js.LICENSE.txt": "/post-comment-app/static/js/2.8bb2c2ec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/post-comment-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe59534c.js",
+    "static/js/2.8bb2c2ec.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ca1037d.chunk.js"
+  ]
+}
